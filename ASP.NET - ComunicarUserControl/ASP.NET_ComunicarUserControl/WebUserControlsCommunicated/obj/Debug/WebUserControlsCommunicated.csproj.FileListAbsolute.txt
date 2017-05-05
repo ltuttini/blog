@@ -1,0 +1,5 @@
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebUserControlsCommunicated\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebUserControlsCommunicated\bin\WebUserControlsCommunicated.dll
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebUserControlsCommunicated\bin\WebUserControlsCommunicated.pdb
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebUserControlsCommunicated\obj\Debug\WebUserControlsCommunicated.dll
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebUserControlsCommunicated\obj\Debug\WebUserControlsCommunicated.pdb

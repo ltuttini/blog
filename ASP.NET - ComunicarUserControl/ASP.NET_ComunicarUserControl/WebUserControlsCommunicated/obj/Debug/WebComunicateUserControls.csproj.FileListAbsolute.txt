@@ -1,0 +1,15 @@
+C:\Documents and Settings\ltuttini\My Documents\Visual Studio 2008\Projects\WebComunicateUserControls\WebComunicateUserControls\bin\WebComunicateUserControls.dll
+C:\Documents and Settings\ltuttini\My Documents\Visual Studio 2008\Projects\WebComunicateUserControls\WebComunicateUserControls\bin\WebComunicateUserControls.pdb
+C:\Documents and Settings\ltuttini\My Documents\Visual Studio 2008\Projects\WebComunicateUserControls\WebComunicateUserControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ltuttini\My Documents\Visual Studio 2008\Projects\WebComunicateUserControls\WebComunicateUserControls\obj\Debug\WebComunicateUserControls.dll
+C:\Documents and Settings\ltuttini\My Documents\Visual Studio 2008\Projects\WebComunicateUserControls\WebComunicateUserControls\obj\Debug\WebComunicateUserControls.pdb
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\WebComunicateUserControls\bin\WebComunicateUserControls.dll
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\WebComunicateUserControls\bin\WebComunicateUserControls.pdb
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\WebComunicateUserControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\WebComunicateUserControls\obj\Debug\WebComunicateUserControls.dll
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\WebComunicateUserControls\obj\Debug\WebComunicateUserControls.pdb
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\bin\WebComunicateUserControls.dll
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\bin\WebComunicateUserControls.pdb
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\obj\Debug\WebComunicateUserControls.dll
+C:\Desarrollo\Blog\C# - ASP.NET, Users Control Comunicate\WebComunicateUserControls\obj\Debug\WebComunicateUserControls.pdb
